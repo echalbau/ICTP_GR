@@ -14,9 +14,9 @@ xPert: Paquete para perturbaciones a varios ordenes.
 
 # Como instalar xAct dentro de Mathematica
 
-#Linux
+# Linux
 
-#Mac
+# Mac
 
-#Windows
+# Windows
 
