@@ -1,6 +1,6 @@
 # ICTP_GR
 
-Repositorio con los cuadernos de Mathematica a ser usados en las clases introductorias del curso de relatividad general ICTP PWF 2023. 
+Repositorio con los cuadernos de Mathematica a ser utilizados en las clases del curso de relatividad general ICTP PWF 2023. 
 Este repositorio contiene algunos tutoriales disponibles en http://www.xact.es para manipulacion de indices en tensores y
 densidades tensoriales.
 
