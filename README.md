@@ -16,7 +16,7 @@ xPert: Paquete para perturbaciones a varios ordenes.
 
 1) Descargar el archivo xAct_1.2.0.tgz (Mac/Linux) o xAct_1.2.0.zip (Windows) en http://www.xact.es/download.html
 
-2) Extrair el contenido en la terminal (Se puede hacer manualmente en la interfaz gráfica del sistema operativo):
+2) Extraer el contenido en la terminal (Se puede hacer manualmente en la interfaz gráfica del sistema operativo):
 
 tar -xvf xAct_1.2.0.tgz (Mac/Linux)
 
